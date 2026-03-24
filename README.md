@@ -1,9 +1,23 @@
-# Desafio de projeto sobre Git/GitHub
+# Desafio de Projeto - Git/GitHub (DIO)
 
-Repositório criado para desenvolvimento do desafio de projeto sobre Git/Github 
+Este diretório foi criado como parte do desafio de projeto da DIO (Digital Innovation One) voltado ao estudo de Git e GitHub.
 
-## Links Úteis
+## 📁 Conteúdo
 
-[Sintaxe básica Markdown](https://ajuda.memberkit.com.br/como-funciona/guia-basico-de-markdown?gad_source=1&gad_campaignid=22306642075&gclid=Cj0KCQjwpv7NBhCzARIsADkIfWwHmtQvPHCNlvP3UNhtbN2Y7gy5jIeoT9RUIoySuKCOFw_aAuffn68aAlU9EALw_wcB)
+Nesta pasta você encontrará:
 
-**Douglas B Ferreira**, 22 de Março de 2026
+- Procedimentos apresentados durante as aulas
+
+- Comandos básicos e intermediários do Git
+
+- Configuração de ambiente (ex: chave SSH)
+
+- Anotações e práticas adicionais relacionadas ao uso do Git
+
+## 🎯 Objetivo
+
+Consolidar o aprendizado prático sobre controle de versão utilizando Git, além de servir como material de consulta futura.
+
+---
+
+Caso tenha dúvidas ou sugestões, fique à vontade para contribuir.
