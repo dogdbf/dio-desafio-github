@@ -14,6 +14,8 @@ Nesta pasta você encontrará:
 
 - Anotações e práticas adicionais relacionadas ao uso do Git
 
+- Instalação e virtualização do Ubuntu Server no VirtualBox
+
 ## 🎯 Objetivo
 
 Consolidar o aprendizado prático sobre controle de versão utilizando Git, além de servir como material de consulta futura.
