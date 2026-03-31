@@ -1,25 +1,33 @@
-# Desafio de Projeto - Git/GitHub (DIO)
+## 🔗 Git & GitHub - Fundamentos
 
-Este diretório foi criado como parte do desafio de projeto da DIO (Digital Innovation One) voltado ao estudo de Git e GitHub.
+Repositório com anotações, procedimentos e exercícios práticos do curso **Git & GitHub** na plataforma DIO.
 
-## 📁 Conteúdo
+## O que você encontra aqui
 
-Nesta pasta você encontrará:
+- Comandos essenciais de Git (init, add, commit, push, pull)
+- Configuração de ambiente (SSH, GPG, credentials)
+- Fluxo de branches e merge
+- Resolução de conflitos
+- Boas práticas de versionamento
 
-- Procedimentos apresentados durante as aulas
+## 📚 Estrutura
 
-- Comandos básicos e intermediários do Git
+```
+├── Introdução-Git-GitHub/     # Fundamentos e setup
+└── linux-ubuntu-24-04/        # Ambiente Linux para Git
+```
 
-- Configuração de ambiente (ex: chave SSH)
+## 🎯 Para quem é
 
-- Anotações e práticas adicionais relacionadas ao uso do Git
+Ideal para quem está iniciando com controle de versão e quer material de consulta prático.
 
-- Instalação e virtualização do Ubuntu Server no VirtualBox
+## 💡 Como usar
 
-## 🎯 Objetivo
+Navegue pelas pastas e explore os procedimentos documentados. Recomendo ler na seguinte ordem:
 
-Consolidar o aprendizado prático sobre controle de versão utilizando Git, além de servir como material de consulta futura.
+1. Introdução-Git-GitHub
+2. linux-ubuntu-24-04 (setup do ambiente)
 
----
+## 🤝 Contribuições
 
-Caso tenha dúvidas ou sugestões, fique à vontade para contribuir.
+Sugestões e melhorias são bem-vindas!
