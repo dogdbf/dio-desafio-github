@@ -14,7 +14,7 @@ Repositório com anotações, procedimentos e exercícios práticos do curso **G
 
 ```
 ├── Introdução-Git-GitHub/     # Fundamentos e setup
-└── linux-ubuntu-24-04/        # Ambiente Linux para Git
+└── 
 ```
 
 ## 🎯 Para quem é
